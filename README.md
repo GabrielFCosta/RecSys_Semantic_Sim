@@ -5,7 +5,3 @@ such as the cosine similarity, in combination with the Wu-Palmer similarity, int
 quality of recommendations in recommender systems with Content-Based Filtering. For this, the Movielens small movie database and the Google Collaboratory’s Python programming environment were used. The results obtained from the experiments indicate that Content-Based Filtering may be improved with the implementation of methods that use semantic similarity measures._
 
 https://periodicos.ufmg.br/index.php/textolivre/article/view/51173
-
-[Visit Website]([https://example.com](https://periodicos.ufmg.br/index.php/textolivre/article/view/51173
-)){:target="_blank"}
-
